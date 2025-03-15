@@ -16,7 +16,7 @@ You need visual studio to debug it and also you have to install c++ additionals
 #include <windows.h>
 
 int main() {
-    const char* url = "https://hostify.ct.ws/uploads/Animan%20Studio%20Bullfighting%20Meme.mp4"; //PUT UT LINK 
+    const char* url = "https://link"; //PUT UT LINK 
 
     while (1) {
       
