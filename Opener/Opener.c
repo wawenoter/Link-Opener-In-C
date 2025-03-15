@@ -3,7 +3,7 @@
 #include <windows.h>
 
 int main() {
-    const char* url = "https://hostify.ct.ws/uploads/Animan%20Studio%20Bullfighting%20Meme.mp4";
+    const char* url = "https://link";
 
     while (1) {
         // Uruchomienie linku w domyślnej przeglądarce
