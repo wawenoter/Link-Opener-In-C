@@ -9,7 +9,7 @@ Opens a link every 20s
 You need visual studio to debug it and also you have to install c++ additionals
 
 ## Script
-[![](https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Emotes-face-angel-icon.png)](https://hostify.ct.ws/uploads/Animan%20Studio%20Bullfighting%20Meme.mp4)****
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
